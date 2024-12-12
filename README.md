@@ -14,7 +14,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/loay-fathy/calendar-event-manager.git
+    git clone https://github.com/loay-f/calendar-app
     cd calendar-event-manager
     ```
 
@@ -36,4 +36,4 @@
 
 ## Deployed App
 
-You can access the deployed app [here](https://your-deployed-app-link.com).
+You can access the deployed app [here](https://calendar-project-react-loay-fathy.netlify.app/).
